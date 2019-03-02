@@ -1,0 +1,12 @@
+{
+  "name": "learning-travis-Hammad",
+  "description": "For testing building nodejs applications with travis-ci",
+  "author": "matesio",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jshint app.js"
+  }
+}
